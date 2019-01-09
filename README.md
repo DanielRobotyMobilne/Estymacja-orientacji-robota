@@ -9,4 +9,4 @@ Subocz, Stencel, Dzierżawski, Bieszk
 
   Do sterowania silnikami wykorzystywane są wyjścia PWM (pozwalające na modulację szerokości impulsów), przez które sygnał sterujący trafia do wzmacniaczy. Za każdy z silników odpowiedzialne są dwa wzmacniacze. W zależności od pożądanego kierunku ruchu (a zatem odpowiadającym mu kierunkom obrotów silnika) sygnały przesyłane są na odpowiednie wyjścia.
 
-  Informacja o położeniu robota w przestrzeni jest otrzymywana poprzez akcelerometr i żyroskop. Dane z nich przesyłane są do operatora poprzez kolejny kanał modułu radiowego. Do estymacji orientacji wykorzystano filtr Kalmana, filtr komplementarny oraz filtr Mahonego. Otrzymane wyniki zostały przedstawione w sprawozdaniu.
+  Informacja o położeniu robota w przestrzeni jest otrzymywana poprzez akcelerometr i żyroskop. Dane z nich przesyłane są do operatora poprzez kolejny kanał modułu radiowego. Do estymacji orientacji wykorzystano filtr komplementarny. Otrzymane wyniki zostały przedstawione w sprawozdaniu.
